@@ -1,12 +1,14 @@
 Description
 ===========
 
+Installs/configures libcomerr.
+
 Requirements
 ============
+
+None.
 
 Attributes
 ==========
 
-Usage
-=====
-
+None.
