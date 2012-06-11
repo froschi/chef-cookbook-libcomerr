@@ -1,6 +1,11 @@
-packages = %w/
-  libcommerr2
-/
+packages = Array.new
+
+case node[:lsb][:codename]
+when "lucid", "precise"
+  packages |= %w/
+    libcomerr2
+  /
+end
 
 packages.each do |pkg|
   package pkg do

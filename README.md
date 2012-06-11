@@ -1,14 +1,19 @@
 Description
 ===========
 
-Installs/configures libcomerr.
-
 Requirements
 ============
-
-None.
 
 Attributes
 ==========
 
-None.
+Usage
+=====
+
+Notes
+=====
+
+Tested on:
+
+* Ubuntu lucid
+* Ubuntu precise
